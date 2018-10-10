@@ -11,30 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Physics, Louisiana State University, 2017 
+Thesis title: The effects of instrumental noise on searches for generic transient gravitational waves in Advanced LIGO
+* B.S. in Physics, Abilene Chrisian University, 2010
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Postdoctoral Research, California State University, Fullerton, 2017 - Present
+  My two main research focuses are characterizing of the instrumentation of gravitational-wave observatories to increase their astronomical reach and improving  theoretical gravitational waveform models using numerical relativity.
+  * Collaborated with professors and students to develop a linear regression algorithm to find correlations between LIGO's range and instrumental noise, and led a paper describing the methods, accepted for publication in Classical and Quantum Gravity https://arxiv.org/abs/1807.02592
+  * Led efforts in the LIGO detector characterization group to coordinate instrumental characterization and validation of candidate gravitational-wave signals
+  * Performed numerical relativity simulations needed to extend binary black hole waveform models to higher mass ratios and higher spins}
+  * Developed reduced order models to create accurate waveforms for high spin black hole mergers
 
 Publications
 ======
