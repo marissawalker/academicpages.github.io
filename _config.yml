@@ -81,10 +81,10 @@ yandex_site_verification :
 author:
   name             : "Dr. Marissa Walker"
   avatar           : "IMG_4636.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  #bio              : "Your biography for the left-hand sidebar"
   location         : "Fullerton, CA"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=oC_w6PYAAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : " https://orcid.org/0000-0002-7176-6914"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
